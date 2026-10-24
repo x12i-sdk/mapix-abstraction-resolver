@@ -1,0 +1,24 @@
+{
+  "name": "mapix-abstraction-resolver-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/mapix-abstraction-resolver: explain how an abstract lens selects a concrete entity.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/mapix-abstraction-resolver": "1.0.0",
+    "@x12i/mapix-mongo-profiler": "1.0.0",
+    "@x12i/mapix-proposal-builder": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/mapix-abstraction-resolver.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/mapix-abstraction-resolver"
+}

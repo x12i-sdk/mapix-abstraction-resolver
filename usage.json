@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/mapix-abstraction-resolver",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/mapix-abstraction-resolver",
+  "usageRepository": "https://github.com/x12i-sdk/mapix-abstraction-resolver",
+  "sourceRepository": "https://github.com/x12i/mapix",
+  "sourceCommit": "050d49774c2e81b3ec9daba4fb4cf6869179e5f1",
+  "sourcePackageDirectory": "packages/abstraction-resolver",
+  "example": {
+    "title": "Explain how an abstract lens selects a concrete entity",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:28:41.569640+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "933e1c78e91306872199cfd60d9d610d9cc64afaf5356729b87110dd0f44b058",
+    "manifestSha256": "19456b94d5cdf6160c1b6cc688505442adaa5067e33369e2d78b3a1e1ec86a03"
+  },
+  "validationFiles": {
+    "src/index.mjs": "933e1c78e91306872199cfd60d9d610d9cc64afaf5356729b87110dd0f44b058"
+  }
+}
